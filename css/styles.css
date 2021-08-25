@@ -1,0 +1,12 @@
+#mycol {
+   background-color: cadetblue;
+   color:chocolate;
+}   
+.myCustomClass {
+    background-color: cornflowerblue;
+    color: crimson;
+}
+.myContent {
+    height: 300px;
+    background-color: darkgreen;
+}
